@@ -1,0 +1,70 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    gap: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #101111;
+    color: #ffffff;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+button{
+    background: linear-gradient(90deg, #7A87FB, #FFD49C);
+    cursor: pointer;
+    outline: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button:hover{
+    padding: 15px;
+    transition: 0.5s ease;
+}
+
+h1{
+    font-weight: 400;
+    font-size: 32px;
+    font-style: normal;
+}
+
+p{
+    margin-top: -10px;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+table {
+    width: 100%;
+    margin-top: 50px;
+    border-collapse: collapse;
+  }
+
+  td {
+    border: 1px solid rgb(255, 255, 255, 0.2);
+    padding: 40px 0;
+  }
+
+span{
+    text-align: left;
+}
+
+.main{
+    width: 1091px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

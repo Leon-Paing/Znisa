@@ -1,0 +1,65 @@
+.client-div{
+    width: 90%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 24px;
+  }
+  .client-card{
+    width: 397px;
+    height: 201px;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 24px;
+    background: linear-gradient(145deg, #FFD49C, #7A87FB, #151515, #151515, #101111);
+  }
+  .client-content{
+    width: 397px;
+    height: 201px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1.5px solid transparent;
+    border-radius: 24px;
+    background-color: #101111;
+    gap: 40px;
+}
+.client-info{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.client-profile-detail{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.client-profile-pic{
+    width: 48px;
+    height: 48px;
+    border-radius: 50px;
+    background-color: #878787;
+}
+
+.client-idendity{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    margin-left: 8px;
+}
+
+.client-role{
+    font-weight: 400;
+    font-size: 14px;
+    color: rgb(255, 255, 255, 0.7);
+}
+
+.client-review{
+    width: 90%;
+}
