@@ -18,6 +18,6 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Leon-Paing/zanisa-portfolio.git
+git clone https://github.com/Leon-Paing/Zanisa.git
 cd zanisa-portfolio
 ```
