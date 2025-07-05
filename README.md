@@ -19,5 +19,5 @@
 
 ```bash
 git clone https://github.com/Leon-Paing/Znisa.git
-cd zanisa-portfolio
+cd Znisa
 ```
