@@ -1,6 +1,6 @@
-# 🌸 Zanisa - Personal Portfolio Template
+# 🌸 Znisa - Personal Portfolio Template
 
-**Zanisa** is a clean and elegant personal portfolio template perfect for developers, designers, and creatives. It features 4 main sections: **Home**, **About**, **Projects** (with Client Testimonials), and **Contact**.
+**Znisa** is a clean and elegant personal portfolio template perfect for developers, designers, and creatives. It features 4 main sections: **Home**, **About**, **Projects** (with Client Testimonials), and **Contact**.
 
 ---
 
@@ -18,6 +18,6 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Leon-Paing/Zanisa.git
+git clone https://github.com/Leon-Paing/Znisa.git
 cd zanisa-portfolio
 ```
