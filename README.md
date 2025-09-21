@@ -13,10 +13,11 @@
 
 ---
 
-## Project Showcase demo
+## ✨ Project Showcase Demo
 <img src="./87F304E5-1B13-41B7-945F-59FAD6DA32E0_1_201_a.jpeg">
 <img src="./57BB3135-2C8A-4D07-9FA5-1D52D154E37F_1_201_a.jpeg">
 <img src="./413B36FD-D6F1-4824-B0B8-EB8DC22FF4F4_1_201_a.jpeg">
+<img src="./3DFA1F27-30AD-486F-A045-B05CE90411B0_1_201_a.jpeg">
 
 ---
 
